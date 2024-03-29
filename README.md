@@ -12,8 +12,6 @@ This project aims to predict student performance based on various factors such a
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
-- [Project Structure](#project-structure)
-- [Author](#author)
 
 ## Introduction
 
