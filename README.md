@@ -1,6 +1,6 @@
-# Predicting-Student-Academic-Performance-Using-DecisionTree
+# Predicting-Student-Academic-Performance
 
-This project aims to predict student performance based on various factors such as gender, ethnicity, parental level of education, lunch type, test preparation course, and exam scores. The machine learning model trained on a dataset of student information can provide insights into predicting a student's performance in mathematics.
+This project aims to predict student performance based on various factors such as gender, ethnicity, parental level of education, lunch type, test preparation course, and exam scores. The  model trained on a dataset of student information can provide insights into predicting a student's performance in mathematicsand science.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -45,11 +45,11 @@ The dataset used for training the machine learning model is sourced from [Kaggle
 
 ## Model Training
 
-The machine learning model is trained using a supervised learning algorithm, such as a decision tree or random forest, to predict the math score based on the input features. The dataset is split into training and testing sets to evaluate the model's performance.
+The model is trained using a genai algorithm, such as a decision tree or CNN algorithm , to predict the math score based on the input features. The dataset is split into training and testing sets to evaluate the model's performance.
 
 ## Results
 
-The trained model achieved an accuracy of 85% in predicting student performance in mathematics. The results demonstrate the significant impact of factors such as parental education, test preparation course, and lunch type on student scores.
+The trained model achieved an accuracy of 85% in predicting student performance in mathematicsand science. The results demonstrate the significant impact of factors such as parental education, test preparation course, and lunch type on student scores.
 
 ## Contributing
 
